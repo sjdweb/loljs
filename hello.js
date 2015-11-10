@@ -1,1 +1,1 @@
-3e36d457-87ef-11e5-b1df-b8e856430c8a
+println('Hello world')
